@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.621bf2ce.css",
-    "main.js": "/static/js/main.92030f2c.js",
-    "static/js/787.dc03b30a.chunk.js": "/static/js/787.dc03b30a.chunk.js",
-    "index.html": "/index.html",
-    "main.621bf2ce.css.map": "/static/css/main.621bf2ce.css.map",
-    "main.92030f2c.js.map": "/static/js/main.92030f2c.js.map",
-    "787.dc03b30a.chunk.js.map": "/static/js/787.dc03b30a.chunk.js.map"
+    "main.css": "/puzzle/static/css/main.621bf2ce.css",
+    "main.js": "/puzzle/static/js/main.aa8e000f.js",
+    "static/js/787.dc03b30a.chunk.js": "/puzzle/static/js/787.dc03b30a.chunk.js",
+    "index.html": "/puzzle/index.html",
+    "main.621bf2ce.css.map": "/puzzle/static/css/main.621bf2ce.css.map",
+    "main.aa8e000f.js.map": "/puzzle/static/js/main.aa8e000f.js.map",
+    "787.dc03b30a.chunk.js.map": "/puzzle/static/js/787.dc03b30a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.621bf2ce.css",
-    "static/js/main.92030f2c.js"
+    "static/js/main.aa8e000f.js"
   ]
 }
